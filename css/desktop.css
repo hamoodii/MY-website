@@ -1,0 +1,27 @@
+@import url(particles-grid.css);
+div{
+    background-image:url(../images/work.jpg);
+    background-repeat:repeat;
+    background-size: cover;
+    width: 2048px;
+    height: 1154px;
+    font-family: sans-serif;
+    font-style: italic;
+    text-decoration-style:dashed;
+    background-position:center;
+    /*background:#FAEBD7 url(../images/work.jpg); */
+    color: #faebd7; /* Color properties*/
+    direction:inherit; /*diriction of the letter*/
+    letter-spacing: 1px; /*space between the letters*/
+    text-decoration: underline;/*if i ant to make a line under the words of my home page */
+    text-transform: capitalize;/*if i want to make the first letter capital in all of my word */
+
+}
+/* wenn i want5 to make a shadow in the button or something else */
+a:hover{
+    box-shadow: 10px 10px 38px 0px rgba(250, 245, 215, 0.37)
+    
+}
+.port{
+    text-align: center;
+}
